@@ -1,1 +1,1 @@
-# Examples of operation on the server
+# Examples work NodeJS and postgreSQL
